@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisableAccounts", "DisableAccounts\DisableAccounts.csproj", "{459C9BF1-CD07-41F1-891C-838F2A7BB2F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{19D8D36D-93ED-45F9-8DC4-6CFC3F924E59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{459C9BF1-CD07-41F1-891C-838F2A7BB2F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{459C9BF1-CD07-41F1-891C-838F2A7BB2F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{459C9BF1-CD07-41F1-891C-838F2A7BB2F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{459C9BF1-CD07-41F1-891C-838F2A7BB2F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19D8D36D-93ED-45F9-8DC4-6CFC3F924E59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19D8D36D-93ED-45F9-8DC4-6CFC3F924E59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19D8D36D-93ED-45F9-8DC4-6CFC3F924E59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19D8D36D-93ED-45F9-8DC4-6CFC3F924E59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF0FEB4B-6D62-461A-AA63-2AC28432D586}
+	EndGlobalSection
+EndGlobal
